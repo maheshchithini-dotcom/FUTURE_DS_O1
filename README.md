@@ -7,7 +7,7 @@ This Power BI dashboard analyzes e-commerce sales data to uncover key business i
 - Regional revenue performance
 
 # Task Objective
-As part of the FUTURE internship program (Task 2), the goal is to help business owners understand sales behavior and make data-driven decisions using interactive visualizations.
+As part of the FUTURE internship program (Task 1), the goal is to help business owners understand sales behavior and make data-driven decisions using interactive visualizations.
 
 # Dataset
 Source: [Kaggle – UK E-commerce Sales Data](https://www.kaggle.com/)
@@ -30,9 +30,6 @@ Contains: Product, Category, Country, Quantity, Invoice Date, Customer ID
 - Focus efforts on top regions like **London** and **Manchester**.
 - Expand strong categories like **Home & Office** with bundles or premium products.
 - Improve customer retention with loyalty programs targeting repeat buyers.
-
-# Screenshots
-![Dashboard Overview](dashboard.png)
 
 # Repository Naming Convention
 This repository follows the required format:  
